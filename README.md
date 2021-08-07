@@ -1,6 +1,6 @@
 ## Olá Sou o Alezandro, prazer! 👋
 
-- 🔭 Hojé estou esudando front-end e ja desenvolvendo alguns projetos pessoais.
+- 🔭 Hojé estou estudando front-end e ja desenvolvendo alguns projetos pessoais.
 - 🌱 Estou estudando, Javascript, jQuery. 
 
 <div style="display: inline_block">
