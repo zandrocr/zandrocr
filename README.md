@@ -1,7 +1,7 @@
 ## Olá Sou o Alezandro, prazer! 👋
 
 - 🔭 Hojé estou estudando front-end e ja desenvolvendo alguns projetos pessoais.
-- 🌱 Estou estudando, Javascript, jQuery. 
+- 🌱 Iniciando em Javascript, jQuery. 
 
 <div style="display: inline_block">
   <a href="https://github.com/zandrocr">
