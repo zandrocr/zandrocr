@@ -1,4 +1,4 @@
-## Olá Sou o Alezandro, prazer! 👋
+## Olá sou o Alezandro, prazer! ✌🏾
 
 - 🔭 Hojé estou estudando front-end e ja desenvolvendo alguns projetos pessoais.
 - 🌱 Iniciando em Javascript, jQuery. 
