@@ -3,13 +3,13 @@
 - 🔭 Hojé estou estudando front-end e ja desenvolvendo alguns projetos pessoais.
 - 🌱 Iniciando em Javascript, jQuery. 
 
-<div style="display: inline_block">
+<div style="">
   <a href="https://github.com/zandrocr">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=zandrocr&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="120em" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zandrocr&layout=compact&langs_count=7&theme=radical"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zandrocr&layout=compact&langs_count=7&theme=radical"/>
 </div>
-
-<div style="display: inline_block"><br>
+  
+<div><br>
     <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
     <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
