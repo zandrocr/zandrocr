@@ -1,7 +1,7 @@
 ## Olá sou o Alezandro, prazer! ✌🏾
 
 - 🔭 Hojé estou estudando front-end e ja desenvolvendo alguns projetos pessoais.
-- 🌱 Estudando Javascript, jQuery e Python. 
+- 🌱 Estudando jQuery e Python. 
 
 <div> 
     <a href="https://www.linkedin.com/in/alezandro-c-6725b1105/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
