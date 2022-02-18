@@ -1,8 +1,5 @@
 # Olá sou o Alezandro, prazer! ✌🏾
 
-- 🔭 Hojé estou estudando front-end e ja desenvolvendo alguns projetos pessoais.
-- 🌱 Estudando jQuery e Python. 
-
 <div align="center"> 
     <a href="https://www.linkedin.com/in/alezandro-c-6725b1105/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
       <a href="https://api.whatsapp.com/send?phone=5512982931419&text=Ol%C3%A1%20Alezandro." target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
