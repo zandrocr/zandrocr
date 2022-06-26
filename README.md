@@ -11,10 +11,10 @@
 ---
 
 <div align="center">
-    <img width="500vh" src="https://github-readme-stats.vercel.app/api?username=zandrocr&theme=algolia&hide_border=false&include_all_commits=true&count_private=true"/>
-    <img width="500vh" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zandrocr&theme=algolia&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
-    <img width="500vh" src="https://github-readme-streak-stats.herokuapp.com/?user=zandrocr&theme=algolia&hide_border=false"/>
-    <img width="500vh" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=algolia&hide" />
+    <img width="400vh" src="https://github-readme-stats.vercel.app/api?username=zandrocr&theme=algolia&hide_border=false&include_all_commits=true&count_private=true"/>
+    <img width="400vh" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zandrocr&theme=algolia&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
+    <img width="400vh" src="https://github-readme-streak-stats.herokuapp.com/?user=zandrocr&theme=algolia&hide_border=false"/>
+    <img width="400vh" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=algolia&hide" />
 </div>
 </br>
 <div align="center">
