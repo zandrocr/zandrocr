@@ -1,5 +1,5 @@
 # Olá sou o Alezandro, prazer! ✌🏾
-🌱 Aprendendo Angular e Java no momento no bootcamp promovido pelo Santander na plataforma da Dio!<br>
+🌱 Melhorando conhecimentos em React!<br>
 
 ---
 
