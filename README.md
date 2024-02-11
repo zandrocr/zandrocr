@@ -15,6 +15,3 @@
     <img width="400vh" src="https://github-readme-streak-stats.herokuapp.com/?user=zandrocr&theme=algolia&hide_border=false"/>
 </div>
 
-<div align="center">
-<img src="https://github.com/zandrocr/zandrocr/blob/output/github-contribution-grid-snake.svg">
-</div>
