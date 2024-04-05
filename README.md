@@ -25,7 +25,9 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" width= "40" height="40" />
 </div>
 
-<p>Conecte-se comigo:</p>
+###
+
+<p>Se contate comigo:</p>
 
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="25" />](https://www.linkedin.com/in/zandrocr/)
 [<img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" height="25" />](mailto:alezandrocosta@live.com)
