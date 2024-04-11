@@ -3,7 +3,7 @@
 
 - 🔭 Atualmente estou trabalhando em algo novo para mim: **Extensão CRM de Consórcios**
 
-- 🌱 Atualmente estou aprendendo <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" width= "30" height="30" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width= "30" height="30" />
+- 🌱 Atualmente estou aprendendo <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" width= "30" height="30" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" width= "40" height="40" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" width= "40" height="40" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eclipse/eclipse-original.svg" width= "30" height="30" />
 
 - 🎓 Fromado em ADS e pensando em cursar Ciência de Dados
 
@@ -11,7 +11,7 @@
 
 - ⚡ Um fato: **❤️ 👨🏽‍👩🏽‍👧🏽 e Jogar ⚔️🧙**
 
-<h3 align="left">Algumas ferramentas </h3>
+<h3>Idiomas <img src="https://em-content.zobj.net/source/telegram/386/robot_1f916.webp" width= "30" /></h3>        
 
 <div align="left">       
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width= "40" height="40" />       
@@ -20,9 +20,14 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" width= "40" height="40" />          
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width= "40" height="40" />    
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width= "40" height="40" />          
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg" width= "40" height="40" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" width= "40" height="40" />
+</div>
+
+<h3 align="left">Ferramentas</h3>
+<div align="left">  
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width= "40" height="40" />    
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" width= "40" height="40" />    
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg" width= "40" height="40" />
 </div>
 
 ###
