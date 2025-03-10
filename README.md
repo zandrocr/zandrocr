@@ -11,15 +11,22 @@
 
 - <img src="https://em-content.zobj.net/source/telegram/386/high-voltage_26a1.webp" width= "20" /> Um fato: **❤️ 👨🏽‍👩🏽‍👧🏽 e Jogar ⚔️🧙**
 
+<h3>Framework <img src="https://em-content.zobj.net/source/telegram/386/robot_1f916.webp" width= "30" /></h3>   
+
+<div align="left">  
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" width= "40" height="40" />     
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angularjs/angularjs-original.svg" width= "40" height="40" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width= "40" height="40" />      
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" width= "40" height="40" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" width= "40" height="40" />   
+</div>
+
 <h3>Idiomas <img src="https://em-content.zobj.net/source/telegram/386/robot_1f916.webp" width= "30" /></h3>        
 
-<div align="left">       
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width= "40" height="40" />       
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width= "40" height="40" />                 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" width= "40" height="40" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" width= "40" height="40" />          
+<div align="left">      
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width= "40" height="40" /> 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width= "40" height="40" />    
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width= "40" height="40" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width= "40" height="40" />             
 </div>
 
 <h3 align="left">Ferramentas</h3>
