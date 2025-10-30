@@ -9,7 +9,7 @@
 
 - 📄 Saiba mais das minhas experiências [Aqui](https://www.linkedin.com/in/zandrocr/)
 
-- <img src="https://em-content.zobj.net/source/telegram/386/high-voltage_26a1.webp" width= "20" /> Um fato: **❤️ 👨🏽‍👩🏽‍👧🏽 e Jogar ⚔️🧙**
+- <img src="https://em-content.zobj.net/source/telegram/386/high-voltage_26a1.webp" width= "20" /> Um fato: **❤️ 🧑🏻👧🏾 e Jogar ⚔️🧙**
 
 <h3>Framework <img src="https://em-content.zobj.net/source/telegram/386/robot_1f916.webp" width= "30" /></h3>
 <div align="left">  
